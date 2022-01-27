@@ -2,14 +2,14 @@
 
 The animal shop contract inherits SafeMath contract to avoid integer overflows.
 
-The contract is implements a shop where any customer can purchase 
-    Fish
-    Cat
-    Dog
-    Rabbit
-    Parrot
+The contract is implements a shop where any customer can purchase: 
+    Fish,
+    Cat,
+    Dog,
+    Rabbit,
+    Parrot.
 
-The shop will store information for all the customers who buy a pet. After creating the contract.
+The shop will store information for all the customers who buy a pet.
 
 The contract called AnimalShop has:
 
